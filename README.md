@@ -31,7 +31,7 @@ You are required to model the price of houses with the available independent var
 ## Steps Involved for model creation
 
 - Reading, understanding and visualising the data.
- **Preparing data for modelling.**
+ Preparing data for modelling.
 - Encoding Binary Variable in to 0 or 1.
 - Categorical Variable to dummy Variable
 - Split Data in to Train-Test split
