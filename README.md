@@ -26,24 +26,24 @@ You are required to model the price of houses with the available independent var
 
 - Nampy, Pandas, Matplotlib, Seaborn, Statsmodels, Sikit-learn
 
-## Steps covered:
 
-<ul>
-	Steps Involved for model creation
-Reading, understanding and visualising the data.
-Preparing data for modelling.
+
+##Steps Involved for model creation
+
+-Reading, understanding and visualising the data.
+-Preparing data for modelling.
 - Encoding Binary Variable in to 0 or 1.
 - Categorical Variable to dummy Variable
 - Split Data in to Train-Test split
 - Rescalling the Features.
-Training the model
-Residual Analysis
-Making Predictions and Evaluation on Test data
-Tunning model with Regularization methods:-
+-Training the model
+-Residual Analysis
+-Making Predictions and Evaluation on Test data
+-Tunning model with Regularization methods:-
 - Ridge Regularization
 - Lasso Regularization
-Model Comparrision
-Evaluation
+-Model Comparrision
+-Evaluation
 </ul>
 
 ## Contributors
